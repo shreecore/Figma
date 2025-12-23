@@ -68,7 +68,7 @@ code for ss 3:
 
 
 ## OUTPUT:
-<img width="1536" height="910" alt="image" src="https://github.com/user-attachments/assets/dd98a530-196c-416c-a7f1-8277ffc9bed1" />
+<img width="1456" height="800" alt="image" src="https://github.com/user-attachments/assets/5d5b27b7-2d78-4b67-97b2-039419898654" />
 
 
 ## RESULT:
